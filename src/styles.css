@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,300;1,400;1,500;1,600&display=swap');
+body{
+  background: linear-gradient(45deg, #FFF222,#E74292);
+  font-family: Poppins;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  font-size: 120px;
+  background: -webkit-linear-gradient(#3d5af1, #ff304f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;  font-size: 600;
+}
