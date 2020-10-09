@@ -7,5 +7,9 @@ body{
 
 h1{
   text-align: center;
-  color: #FF3E4D;
+  color: white;
+  font-size: 120px;
+  background: -webkit-linear-gradient(#3d5af1, #ff304f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;  font-size: 600;
 }
